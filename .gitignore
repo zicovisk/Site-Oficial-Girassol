@@ -1,0 +1,17 @@
+# Segredos: nunca vão para o Git
+.env
+.env.*
+
+# Ficheiros do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+
+# Netlify (pasta local da CLI)
+.netlify/
+
+# Configuração local do Claude Code
+.claude/settings.local.json

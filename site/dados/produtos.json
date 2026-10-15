@@ -1,0 +1,29 @@
+{
+  "ramos": [
+    { "nome": "Ramo Maria", "foto": "img/ramomaria.webp", "alt": "Ramo Maria: crisântemos amarelos, brancos, cor-de-vinho e rosa em papel kraft", "visivel": true },
+    { "nome": "Ramo Paula", "foto": "img/ramopaula.webp", "alt": "Ramo Paula: rosas brancas com eucalipto em papel kraft", "visivel": true },
+    { "nome": "Ramo Vitória", "foto": "img/ramovitoria.webp", "alt": "Ramo Vitória: flores secas em tons de rosa e aveia em papel kraft", "visivel": true },
+    { "nome": "Ramo Amélia", "foto": "img/ramoamelia.webp", "alt": "Ramo Amélia: girassol, margaridas, alstroemérias e verónicas em papel kraft", "visivel": true },
+    { "nome": "Ramo Sofia", "foto": "img/ramosofia.webp", "alt": "Ramo Sofia: rosas vermelhas, cor-de-rosa, salmão e brancas em papel kraft", "visivel": true },
+    { "nome": "Ramo Margarida", "foto": "img/ramomargarida.webp", "alt": "Ramo Margarida: margaridas brancas com verde em papel kraft", "visivel": true }
+  ],
+
+  "caixas": [
+    { "nome": "Flower Box", "foto": "img/caixacamila.webp", "alt": "Caixa de flores com peónias, hortênsia e rosas", "visivel": true },
+    { "nome": "Flower Box", "foto": "img/caixa.webp", "alt": "Caixa de flores com rosas, lisianthus e eucalipto", "visivel": true },
+    { "nome": "Flower Box", "foto": "img/caixadiana.webp", "alt": "Caixa de flores com crisântemos, cravos e hortênsia", "visivel": true }
+  ],
+
+  "epoca": {
+    "ativa": true,
+    "titulo": "Natal na Girassol",
+    "texto": "Coroas de advento, guirlandas e a montra de Natal, preparadas na loja.",
+    "mensagem_whatsapp": "Olá! Vi o site da Girassol e gostaria de saber mais sobre a decoração de Natal.",
+    "fotos": [
+      { "foto": "img/decoracaodenatal3.webp", "alt": "Montra de Natal com coroa de bolas vermelhas e candeeiros dourados" },
+      { "foto": "img/coroadeadventonatal.webp", "alt": "Coroa de advento com velas vermelhas, bagas e pinhas" },
+      { "foto": "img/guirlandadenatal.webp", "alt": "Guirlanda de Natal com pinhas e eucalipto" },
+      { "foto": "img/decoracaodenataldourada3.webp", "alt": "Mesa de Natal posta com prato de bordado dourado e guardanapo com pinho" }
+    ]
+  }
+}

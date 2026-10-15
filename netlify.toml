@@ -1,0 +1,21 @@
+# Netlify: publica só a pasta site/ (as referências e fotos originais ficam de fora)
+[build]
+  publish = "site"
+
+# Imagens e ficheiros estáticos podem ficar em cache 30 dias
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000"
+
+# Os dados mudam quando o Lucas atualiza produtos: pedir sempre a versão nova
+[[headers]]
+  for = "/dados/*"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

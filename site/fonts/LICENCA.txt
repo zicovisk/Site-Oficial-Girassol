@@ -1,0 +1,7 @@
+Tipos de letra usados no site, alojados localmente:
+
+- Cormorant Garamond — Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)
+- Jost — Copyright 2020 The Jost Project Authors (github.com/indestructible-type/Jost)
+
+Ambos distribuídos sob a SIL Open Font License, versão 1.1: https://openfontlicense.org
+Ficheiros obtidos no Google Fonts (subconjunto latino, formato WOFF2).
